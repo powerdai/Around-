@@ -1,1 +1,2 @@
 .yml tells program to run go in Google Compute Enginer
+two major func in main. 1) post geolocation in Elasticsearch 2)search geolocation in ES like KD tree
